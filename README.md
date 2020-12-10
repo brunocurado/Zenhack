@@ -4,14 +4,14 @@
 This project is based on installing macOS on a Asus Zenbook UX303UA, 
 with the following specs: 
 
-CPU: i7-6500U;
-GPU: Intel HD520 with 1GB VRAM( No dGPU);
-12GB 1600Mhz RAM;
-500GB SSD Samsung EVO;
-Network: DW1560 >> BCM94352Z;
-Sound Card: Conexant CX20751/2;
-Screen: 1920x1080p;
-Touchpad: Focaltech
+# CPU: i7-6500U;
+# GPU: Intel HD520 with 1GB VRAM( No dGPU);
+# 12GB 1600Mhz RAM;
+# 500GB SSD Samsung EVO;
+# Network: DW1560 >> BCM94352Z;
+# Sound Card: Conexant CX20751/2;
+# Screen: 1920x1080p;
+# Touchpad: Focaltech
 
 What works? 
 Everything, gestures included which can be configured through the info.plist found inside the kext( at the moment of this guide, Touchpad is working with the assistance of ApplePS2SmartTouchPad.kext which was built by EmlyDinesh and dates to 2017, which as you reckon is outdated, but still works luckily. I am however, waiting on a port of the Linux driver and once I have it, I will update the EFI folder and kexts. 
