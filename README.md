@@ -28,7 +28,7 @@ Once that is done, we can open Balena Etcher, choose flash from file, and point 
 We choose our previously formatted USB Stick, and press flash. It will ask for your password, type it and press Enter. 
 It will start flashing the image. If it gives any errors, I recommend trying a different version of BalenaEtcher. You can find them in the releases section. 
 Once that is done, it's time to move our EFI into the EFI PArtition of the USB Stick. 
-For that, we're gonna need a couple tools: in Windows >>  
+For that, we're gonna need a couple tools:  
 
 ## Part 1. Mounting the EFI partition 
 
