@@ -20,7 +20,7 @@ This installation is done using Opencore, which at the moment is at 0.6.5, and a
 
 ## Creation of Image and Replacing EFI folder Step by Step >> 
 
-First we go to olarila.com register and download one of their vanilla images, doesn't matter which, any will do, from El Capitan onwards, any will do. 
+First we go to https://www.olarila.com register and download one of their vanilla images, doesn't matter which, any will do, from El Capitan onwards, any will do. 
 Secondly, depending on which format we download the image, we will need it in .dmg( the usual format used by Apple). If it comes in RAW, we just need to change the extension to .dmg
 Third, we use Balena Etcher, which works great under Windows, Linux and macOS. 
 We're gonna need a USB Stick of at least 16GB minimum. It needs to be formatted into GPT = Guid Partition Table. 
